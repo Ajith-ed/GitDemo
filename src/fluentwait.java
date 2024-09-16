@@ -30,6 +30,7 @@ public class fluentwait {
 		    		 return null;
 		     }
 		   });
+		System.out.println("Hey there");
 		
 		System.out.println(driver.findElement(By.cssSelector("[id='finish'] h4")).getText());
 		System.out.println("Post 1");

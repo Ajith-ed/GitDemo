@@ -68,8 +68,8 @@ public class typesofwait {
 				{
 					break;
 				}
-				
-				
+				System.out.println("New branch is on its way");
+				 
 				
 					}
 			System.out.println("Post 3");
