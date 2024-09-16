@@ -34,6 +34,11 @@ public class fluentwait {
 		System.out.println(driver.findElement(By.cssSelector("[id='finish'] h4")).getText());
 		System.out.println("Post 1");
 		System.out.println("Post 2");
+		//New code
+		System.out.println("Post 3");
+		System.out.println("Post 4");
+		System.out.println("Post 5");
+		System.out.println("Post 6");
 
 	}
 

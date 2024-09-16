@@ -72,6 +72,10 @@ public class typesofwait {
 				
 				
 					}
+			System.out.println("Post 3");
+			System.out.println("Post 4");
+			System.out.println("Post 5");
+			System.out.println("Post 6");
 			
 			
 		}
